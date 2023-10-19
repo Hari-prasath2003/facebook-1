@@ -1,0 +1,6 @@
+* {
+  /* Margin dış çizgiden itibaren boşluklar bırakır. Font family yazı şeklidir. Color yazı rengidir. */
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+}
